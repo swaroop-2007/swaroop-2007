@@ -1,4 +1,11 @@
-### Hi there 👋
+### 👋 Hi there, I'm Swaroop!  🚀 
+
+💻 Software Developer sharing my journey in tech <br/>
+🎓 MS Computer Science Student at The University of Texas at Dallas <br/>
+📈 Passionate about learning and using cutting-edge technologies <br/>
+🚀 Enthusiastic about Machine Learning and Data Science <br/>
+
+
 
 <!--
 **swaroop-2007/swaroop-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
