@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Swaroop!  🚀 
+### 👋 Hi there, I'm Swaroop!  
 
 💻 Software Developer sharing my journey in tech <br/>
 🎓 MS Computer Science Student at The University of Texas at Dallas <br/>
