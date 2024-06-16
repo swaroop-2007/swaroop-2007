@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Swaroop!  
 
 💻 Software Developer <br/>
-🎓 MS Computer Science Student at The University of Texas at Dallas <br/>
+🎓 Computer Science Graduate <br/>
 📈 Passionate about learning and using cutting-edge technologies <br/>
 🚀 Enthusiastic about Machine Learning and Data Science <br/>
 ## 🌐 Socials
